@@ -17,6 +17,7 @@
 		19DA7DF7253F7CF400E833F9 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DA7DF6253F7CF400E833F9 /* ComplicationController.swift */; };
 		19DA7DF9253F7CF500E833F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19DA7DF8253F7CF500E833F9 /* Assets.xcassets */; };
 		19DA7DFC253F7CF500E833F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19DA7DFB253F7CF500E833F9 /* Preview Assets.xcassets */; };
+		19DA7E10253F7D1100E833F9 /* Reversi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DA7E0F253F7D1100E833F9 /* Reversi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		19DA7DFB253F7CF500E833F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		19DA7DFD253F7CF500E833F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		19DA7DFE253F7CF500E833F9 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		19DA7E0F253F7D1100E833F9 /* Reversi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reversi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			children = (
 				19DA7DEE253F7CF400E833F9 /* reversiApp.swift */,
 				19DA7DF0253F7CF400E833F9 /* ContentView.swift */,
+				19DA7E0F253F7D1100E833F9 /* Reversi.swift */,
 				19DA7DF2253F7CF400E833F9 /* NotificationController.swift */,
 				19DA7DF4253F7CF400E833F9 /* NotificationView.swift */,
 				19DA7DF6253F7CF400E833F9 /* ComplicationController.swift */,
@@ -269,6 +272,7 @@
 			files = (
 				19DA7DF3253F7CF400E833F9 /* NotificationController.swift in Sources */,
 				19DA7DF1253F7CF400E833F9 /* ContentView.swift in Sources */,
+				19DA7E10253F7D1100E833F9 /* Reversi.swift in Sources */,
 				19DA7DF7253F7CF400E833F9 /* ComplicationController.swift in Sources */,
 				19DA7DEF253F7CF400E833F9 /* reversiApp.swift in Sources */,
 				19DA7DF5253F7CF400E833F9 /* NotificationView.swift in Sources */,
